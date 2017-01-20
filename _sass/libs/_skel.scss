@@ -255,7 +255,12 @@
 				$x: '\\28' + $breakpointName + '\\29';
 			}
 
-			.\31 2u#{$x}, .\31 2u\24#{$x} { width: 100%; clear: none; margin-left: 0; }
+			.\31 2u#{$x}, .\31 2u\24#{$x} {
+        width: 100%;
+        clear: none;
+        margin-left: 0;
+        overflow: hidden;
+      }
 			.\31 1u#{$x}, .\31 1u\24#{$x} { width: 91.6666666667%; clear: none; margin-left: 0; }
 			.\31 0u#{$x}, .\31 0u\24#{$x} { width: 83.3333333333%; clear: none; margin-left: 0; }
 			.\39 u#{$x}, .\39 u\24#{$x} { width: 75%; clear: none; margin-left: 0; }
@@ -324,8 +329,10 @@
 			.row#{$x} { margin: ($r * $multiplier * -1) 0 -1px ($c * $multiplier * -1); }
 
 		// Uniform.
-			.row.uniform#{$x} > * { padding: ($c * $multiplier) 0 0 ($c * $multiplier); }
-			.row.uniform#{$x} { margin: ($c * $multiplier * -1) 0 -1px ($c * $multiplier * -1); }
+			// .row.uniform#{$x} > * { padding: ($c * $multiplier) 0 0 ($c * $multiplier); }
+			// .row.uniform#{$x} { margin: ($c * $multiplier * -1) 0 -1px ($c * $multiplier * -1); }
+			.row.uniform#{$x} > * { padding: 0; }
+			.row.uniform#{$x} { margin: 0; }
 
 	}
 

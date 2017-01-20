@@ -2,7 +2,7 @@
 layout: post
 title: Videos
 description: A selection of videos from invited researchers
-image: null
+image: assets/images/msResidency2016-1.jpg
 nav-menu: true
 index: 3
 ---

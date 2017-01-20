@@ -18,6 +18,10 @@
 		vertical-align: baseline;
 	}
 
+  td {
+    vertical-align: middle;
+  }
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -2403,7 +2407,7 @@
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.25em 0.25em;
 		}
 
 		table th {

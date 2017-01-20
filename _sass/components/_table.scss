@@ -28,7 +28,18 @@
 		}
 
 		td {
-			padding: 0.75em 0.75em;
+			padding: 0.25em 0.5em;
+      line-height: 1em;
+      vertical-align: middle;
+      font-size: 0.9em;
+      max-width: 30%;
+      min-width: 20% !important;
+      &.shaded {
+        background-color: rgba(#e4f0ff, 0.5);
+      }
+      &.centered {
+        text-align: center;
+      }
 		}
 
 		th {
