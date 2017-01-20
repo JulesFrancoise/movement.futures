@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Schedule
+permalink: /schedule/
 description: Workshop schedule
 image: assets/images/msResidency2016-3.jpg
 nav-menu: true

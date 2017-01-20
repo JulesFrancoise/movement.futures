@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Information
+permalink: /information/
 description: Workshop Information and Contacts
 image: assets/images/woodwards.jpg
 nav-menu: true
