@@ -222,7 +222,7 @@ index: 1
 <hr class="major" />
 <p  style="clear: both;" id="LianLoke">
   <span class="image left" style="max-width: 200px; max-height: 200px;"><img src="/assets/images/LianLoke.jpg" alt="" width="200" height="200" /></span>
-  Lian Loke is an artist, designer and researcher, with the body as the central focus of her interdisciplinary practice. Her work explores the creation of body-centred artistic works and human-centred design approaches to interactive technologies and spaces. She has a background in design, human-computer interaction and software engineering, with extensive experience as a lecturer and researcher. She is a Senior Lecturer in the Design Lab, Faculty of Architecture, Design and Planning, University of Sydney and Director of the Master of Interaction Design and Electronic Arts program.
+  Lian Loke is a senior lecturer and interaction design researcher in the Design Lab, University of Sydney. She is interested in the transdisciplinary nature of the body, the aesthetics of interaction and the impact of new technologies on how we formulate, enact and express our sense of embodied selves. Her research works with dance and somatic practices to explore choreographic possibilities and to inform the design and experience of body and movement-based interactive technologies, most recently with Bodyweather and Feldenkrais.
   <br/><br/>
   <a href="http://www.lianloke.com/" target="_blank">http://www.lianloke.com/</a><br/>
 </p>
