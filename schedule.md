@@ -106,7 +106,7 @@ index: 2
 		</thead>
 		<tbody>
 			<tr>
-				<td class="shaded centered">6:30pm<br/>-<br/>...</td>
+				<td class="shaded centered">6:00pm<br/>-<br/>...</td>
 				<td>Welcome Reception @ <a href="https://encrypted.google.com/maps/place/The+Charles+Bar/@49.2833584,-123.1137733,15z/data=!4m5!3m4!1s0x0:0x741392c04e877006!8m2!3d49.2831064!4d-123.1083231?hl=en" target="_blank">Charles Bar</a></td>
 				<td></td>
 			</tr>
