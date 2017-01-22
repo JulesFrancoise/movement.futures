@@ -17,9 +17,9 @@ index: 2
 		<thead>
 			<tr>
 				<th></th>
-				<th>Friday (1/27)</th>
-				<th>Saturday (1/28)</th>
-				<th>Sunday (1/29)</th>
+				<th>Friday (1/27)<br/>[room: Theatre Studio 4210]</th>
+				<th>Saturday (1/28)<br/>[room: Dance studio 4525]</th>
+				<th>Sunday (1/29)<br/>[room: GCA 4390]</th>
 			</tr>
 		</thead>
 		<tbody>

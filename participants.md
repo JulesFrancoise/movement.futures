@@ -163,7 +163,8 @@ index: 1
 <hr class="major" />
 <p  style="clear: both;" id="KarenBradley">
   <span class="image left" style="max-width: 200px; max-height: 200px;"><img src="/assets/images/KarenBradley.jpg" alt="" width="200" height="200" /></span>
-  Karen Kohn Bradley CMA is a LIMS® Certified Movement Analyst, and is currently the Director of Graduate Studies in Theatre, Dance, and Performance Studies at the University of Maryland, College Park. She studies the nonverbal and movement behaviors of political leaders, coaches actors and dancers, writes, directs, and choreographs politically oriented performance pieces, choreographs for theatre, and researches and writes about dance education issues.
+  Karen Kohn Bradley CMA is a LIMS® Certified Movement Analyst, and is currently the Director of Graduate Studies in Dance, and Head of Dance at the University of Maryland, College Park. She studies the nonverbal and movement behaviors of political leaders, coaches actors and dancers, writes, directs, and choreographs politically oriented performance pieces, choreographs for theatre, and researches and writes about dance education issues.<br/>
+  Professional Affiliations: President and Director of Research, Laban/Bartenieff Institute of Movement Studies, former Government Affairs Liaison, National Dance Education Organization, former President, Congress on Research in Dance.
   <br/><br/>
   <a href="http://tdps.umd.edu/faculty/karen-bradley" target="_blank">http://tdps.umd.edu/faculty/karen-bradley</a><br/>
   <a href="http://www.limsonline.org/" target="_blank">http://www.limsonline.org/</a><br/>
