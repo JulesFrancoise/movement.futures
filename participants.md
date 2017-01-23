@@ -284,10 +284,10 @@ index: 1
 <hr class="major" />
 <p  style="clear: both;" id="AthomasGoldberg">
   <span class="image left" style="max-width: 200px; max-height: 200px;"><img src="/assets/images/AthomasGoldberg.jpg" alt="" width="200" height="200" /></span>
-  Computer graphics industry veteran with a passion for real-time interactive character animation and 20 years of experience as an artist, research scientist, company executive, animation systems architect and gameplay animation director for AAA titles across all major platforms and genres. Interested in working with individuals and companies driving innovation on the frontiers of digital media and interactive content
+  Athomas Goldberg is the president of Lifelike & Believable Animation Design, where he consults for leading developers in the video game and interactive media industries on the subject of believable character motion and behavior. He is also a founding member of the Vancouver-based Pepper’s Ghost New Media & Performing Arts Collective,  where he is exploring the expressive potential of advanced computer graphics, digital audio and visual effects technologies, including real-time motion capture, stereo 3D projection, electronic sound synthesis and virtual & augmented reality, in the creation of live theatre, music and dance performances.
   <br/><br/>
-  <a href="https://www.linkedin.com/in/athomasgoldberg/" target="_blank">https://www.linkedin.com/in/athomasgoldberg/</a><br/>
-  <a href="http://www.lifelikeandbelievable.com/blog/" target="_blank">http://www.lifelikeandbelievable.com/blog/</a><br/>
+  <a href="http://www.lifelikeandbelievable.com/" target="_blank">http://www.lifelikeandbelievable.com/</a><br/>
+  <a href="http://www.peppersghost.org/" target="_blank">http://www.peppersghost.org/</a><br/>
 </p>
 
 <hr class="major" />
