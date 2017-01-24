@@ -190,7 +190,7 @@ index: 1
 <hr class="major" />
 <p  style="clear: both;" id="KristinCarlson">
   <span class="image left" style="max-width: 200px; max-height: 200px;"><img src="/assets/images/KristinCarlson.jpg" alt="" width="200" height="200" /></span>
-  Kristin is an Assistant Professor in the Arts Technology Program at Illinois State University, exploring the role that computation plays in embodied creative processes. She has a history of working in choreography, computational creativity, media performance, interactive art and design tools due to her background in movement, technical theater, interaction design and programming. Kristin holds an AmSat certification in Alexander Technique and is finishing a certification in Laban Movement Analysis.
+  Kristin Carlson is an Assistant Professor in the Arts Technology Program at Illinois State University, exploring the role that computation plays in embodied creative processes. Kristin holds a PhD from the School of Interactive Arts and Technology from Simon Fraser University. She has a history of working in choreography, computational creativity, media performance, interactive art and design tools due to her background in movement, technical theater, interaction design and programming. Kristin holds an AmSat certification in Alexander Technique and is finishing a certification in Laban Movement Analysis.
   <br/><br/>
   <a href="https://kristinannecarlson.com/" target="_blank">https://kristinannecarlson.com/</a><br/>
 </p>
