@@ -53,7 +53,7 @@ index: 2
 			<tr>
 				<td class="shaded centered">12:00am<br/>-<br/>12:30am</td>
 				<td>What If?  Goals + Motivation</td>
-				<td rowspan="3">Researchers Present Part Two | How does my research transform movement.futures | 7 min presentation + 3 minutes questions<br/><br/><i>Bernhard Riecke / Maria Lantin / Jules Françoise / Lyn Bartram / Athomas Goldberg / Kristin Carlson / Philippe Pasquier /  Steve Di Paola / Thecla Schiphorst</i></td>
+				<td rowspan="3">Researchers Present Part Two | How does my research transform movement.futures | 7 min presentation + 3 minutes questions<br/><br/><i>Bernhard Riecke / Maria Lantin / Jules Françoise / Lyn Bartram / Athomas Goldberg / Kristin Carlson / Philippe Pasquier /  Diane Gromala / Thecla Schiphorst</i></td>
 				<td rowspan="2">Grant Development Take-Aways</td>
 			</tr>
 			<tr>
